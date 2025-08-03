@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello 👋 I am Vineet Singh:
 🛠 I’m currently working on<br>A full-stack AI assistant platform that integrates machine learning models into real-world applications, plus some open-source tools for backend infrastructure using Java, Spring Boot, and Node.js.<br><br>👯 I’m looking to collaborate on<br>AI-powered applications, web tools with real-time capabilities, and scalable backend systems.<br><br>🤝 I’m looking for help with<br>Expanding my knowledge in distributed systems and real-world deployment of large-scale AI models.<br><br>🌱 I’m currently learning<br>Advanced system design, Kubernetes, and optimizing machine learning pipelines for production.<br><br>💬 Ask me about<br>AI + software engineering, full-stack architecture, backend performance, and building scalable APIs.<br><br>⚡ Fun fact<br>I once built a chatbot that users thought was human for three straight days 😄
 
 
