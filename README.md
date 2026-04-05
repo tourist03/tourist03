@@ -22,31 +22,10 @@
 <!-- ABOUT SECTION -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-```yaml
-name: Vineet Singh
-role: Partner Software Engineer @ Samsung Research Institute
-location: Noida, India
-current_focus: Tizen Smart TV Runtime Stack (C++ / Native OS)
-
-experience:
-  - company: Samsung Research Institute
-    role: Partner Software Engineer
-    work: "Debug & develop across Tizen Smart TV runtime — C++ native modules,
-           memory analysis, heap profiling, system-level tracing on constrained hardware"
-    impact: "Code runs on millions of Samsung Smart TVs worldwide"
-
-  - company: LTIMindtree
-    role: Senior Software Engineer
-    work: "High-throughput backend services — Java, Spring Boot, Spring Cloud"
-    impact: "Redis caching layer that cut latency by 45% in production"
-
-  - company: L&T Infotech
-    role: Software Engineer
-    work: "Node.js utilities, React UI, Docker + Kubernetes pipelines"
-
-currently_building: "AI-powered tools with local ML inference & vector embeddings"
-competitive_programming: { leetcode: 1820, codechef: 1892 }
-```
+- Platform Engineer at **Samsung Research** — debugging C++ on Tizen Smart TVs that ship to millions
+- Previously built backend services at **LTIMindtree** (Java, Spring Boot)
+- Building AI-powered tools on the side — ML inference, vector search, full-stack apps
+- Competitive programming: **LeetCode 1820** | **CodeChef 1892**
 
 <br/>
 
