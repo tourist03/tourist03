@@ -73,16 +73,29 @@ competitive_programming: { leetcode: 1820, codechef: 1892 }
 <div align="center">
 
 <a href="https://github.com/tourist03/OpenWave">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tourist03&repo=OpenWave&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tourist03&repo=OpenWave&theme=tokyonight&hide_border=true&show_owner=true" width="47%" />
 </a>
+&nbsp;
+<a href="https://github.com/tourist03/Scribe-Script">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tourist03&repo=Scribe-Script&theme=tokyonight&hide_border=true&show_owner=true" width="47%" />
+</a>
+
+<br/><br/>
+
 <a href="https://github.com/tourist03/Roadmap">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tourist03&repo=Roadmap&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tourist03&repo=Roadmap&theme=tokyonight&hide_border=true&show_owner=true" width="47%" />
+</a>
+&nbsp;
+<a href="https://github.com/tourist03/HandWritten-Digit-Recognition">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tourist03&repo=HandWritten-Digit-Recognition&theme=tokyonight&hide_border=true&show_owner=true" width="47%" />
 </a>
 
 </div>
 
+<br/>
+
 <details>
-<summary><b>🧠 OpenWave — AI News Aggregator</b> &nbsp; <i>(click to expand)</i></summary>
+<summary><b>🧠 OpenWave — AI News Aggregator</b></summary>
 <br/>
 
 > Full-stack AI-powered news platform that **thinks** before it shows you the news.
@@ -94,53 +107,99 @@ competitive_programming: { leetcode: 1820, codechef: 1892 }
 
 **Stack:** `React` `FastAPI` `HuggingFace` `BART` `MiniLM` `Vector Embeddings` `Python`
 
-[View Repo](https://github.com/tourist03/OpenWave)
+[Source Code](https://github.com/tourist03/OpenWave)
 
 </details>
 
 <details>
-<summary><b>📊 100-Day SDE2 Interview Roadmap</b> &nbsp; <i>(click to expand)</i></summary>
+<summary><b>✍️ ScribeSpace — Real-Time Collaborative Notes</b></summary>
 <br/>
 
-> Interactive dashboard for 100 days of structured interview prep — DSA daily + System Design.
+> A full-stack collaborative note-taking app — like Notion, but yours.
+
+- **Real-time collaborative editing** — multiple users can work on the same document simultaneously
+- JWT authentication with secure session management
+- Integrated **rich text formatting** powered by a custom editor
+- Cloud sync ensures your notes are always up to date across devices
+- *In progress:* advanced document organization, smart notifications, and offline support
+
+**Stack:** `React` `Node.js` `MongoDB` `Express` `JWT` `WebSockets`
+
+[Live App](https://scribe-script.vercel.app/) | [Source Code](https://github.com/tourist03/Scribe-Script)
+
+</details>
+
+<details>
+<summary><b>📊 100-Day SDE2 Interview Roadmap</b></summary>
+<br/>
+
+> Interactive dashboard for 100 days of structured interview prep — DSA every single day + System Design.
 
 - Covers **DSA, HLD, and LLD** with LeetCode problem links for every day
 - Streak tracking, milestone celebrations with confetti, progress persistence
-- Calendar-mapped schedule starting April 6, 2026 with weekend stretch days
+- Calendar-mapped schedule (Apr 6 – Jul 14, 2026) with weekend stretch days
 - Phase-based filtering, category search, jump-to-day navigation
 
 **Stack:** `React` `Vite` `GitHub Pages` `localStorage` `CSS Animations`
 
-[Live Demo](https://tourist03.github.io/Roadmap/) | [View Repo](https://github.com/tourist03/Roadmap)
+[Live Demo](https://tourist03.github.io/Roadmap/) | [Source Code](https://github.com/tourist03/Roadmap)
 
 </details>
 
 <details>
-<summary><b>🤖 AI/ML Research Platform</b> &nbsp; <i>(Coming Soon)</i></summary>
+<summary><b>🔤 Character Recognition & Prediction</b></summary>
 <br/>
 
-> End-to-end machine learning platform — from data pipelines to model serving.
+> Open-source ML model that converts images of handwritten text into machine-coded text.
 
-- Training, evaluation, and deployment of production ML models
-- Experiment tracking, model versioning, and performance dashboards
-- API inference endpoints with auto-scaling
-- Full MLOps pipeline with containerized training jobs
+- Built and trained **Convolutional Neural Networks (CNN)** using TensorFlow + Keras
+- Image preprocessing pipeline with **OpenCV** for noise reduction, binarization, and segmentation
+- Improved model accuracy by **30%** through iterative refinement and hyperparameter tuning
+- Flask API endpoint for real-time predictions from uploaded images
 
-**Stack:** `Python` `PyTorch` `FastAPI` `Docker` `MLOps` `AWS`
+**Stack:** `Python` `TensorFlow` `Keras` `OpenCV` `Flask`
+
+[Source Code](https://github.com/tourist03/HandWritten-Digit-Recognition)
 
 </details>
 
 <details>
-<summary><b>📓 iNotebook</b> &nbsp; <i>(click to expand)</i></summary>
+<summary><b>🤖 Sentinel — Intelligent Anomaly Detection Engine</b> &nbsp; <code>Coming Soon</code></summary>
 <br/>
 
-> Cloud-based notebook app with auth, CRUD, and a clean UI.
+> Real-time anomaly detection platform that watches your infrastructure so you don't have to.
 
-**Stack:** `React` `Node.js` `MongoDB` `Express`
+- Stream-processing pipeline ingesting metrics, logs, and traces from distributed systems
+- **Autoencoder + Isolation Forest** hybrid model for detecting novel failure patterns
+- Self-tuning alert thresholds that adapt to seasonal traffic patterns — no more alert fatigue
+- Interactive dashboard with drill-down from anomaly clusters to root-cause candidates
+- REST API for integration with PagerDuty, Slack, and custom webhooks
 
-[View Repo](https://github.com/tourist03/iNotebook)
+**Stack:** `Python` `PyTorch` `Kafka` `FastAPI` `TimescaleDB` `Docker` `Grafana`
 
 </details>
+
+<br/>
+
+<!-- COMPETITIVE PROGRAMMING -->
+## <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" width="25"> Competitive Programming
+
+<div align="center">
+
+```
+    LeetCode  ████████████████████░░░░  1820 Rating
+    CodeChef  ████████████████████░░░░  1892 Rating  ★★★★
+```
+
+<a href="https://leetcode.com/u/tourist03/">
+  <img src="https://img.shields.io/badge/LeetCode-1820-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/tourist03">
+  <img src="https://img.shields.io/badge/CodeChef-1892_%E2%98%854-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</div>
 
 <br/>
 
@@ -149,40 +208,21 @@ competitive_programming: { leetcode: 1820, codechef: 1892 }
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tourist03&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tourist03&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tourist03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tourist03&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-<img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=tourist03&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tourist03&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+<img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=tourist03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 <br/>
 
 <!-- TROPHIES -->
-## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="25"> Achievements
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tourist03&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
-
-</div>
-
-<br/>
-
-<!-- COMPETITIVE PROGRAMMING -->
-<div align="center">
-
-| Platform | Rating | Profile |
-|----------|--------|---------|
-| **LeetCode** | ![](https://img.shields.io/badge/1820-Expert-orange?style=flat-square) | [tourist03](https://leetcode.com/u/tourist03/) |
-| **CodeChef** | ![](https://img.shields.io/badge/1892-4★-brightgreen?style=flat-square) | [tourist03](https://www.codechef.com/users/tourist03) |
+<img src="https://github-profile-trophy.vercel.app/?username=tourist03&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 
 </div>
 
@@ -191,7 +231,7 @@ competitive_programming: { leetcode: 1820, codechef: 1892 }
 <!-- RANDOM DEV QUOTE -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
 
@@ -203,7 +243,7 @@ competitive_programming: { leetcode: 1820, codechef: 1892 }
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tourist03/tourist03/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tourist03/tourist03/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tourist03/tourist03/output/github-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/tourist03/tourist03/output/github-snake-dark.svg" />
 </picture>
 
 </div>
