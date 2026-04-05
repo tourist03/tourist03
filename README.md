@@ -1,18 +1,138 @@
-# Hello 👋 I am Vineet Singh:
-🛠 I’m currently working on<br>A full-stack AI assistant platform that integrates machine learning models into real-world applications, plus some open-source tools for backend infrastructure using Java, Spring Boot, and Node.js.<br><br>👯 I’m looking to collaborate on<br>AI-powered applications, web tools with real-time capabilities, and scalable backend systems.<br><br>🤝 I’m looking for help with<br>Expanding my knowledge in distributed systems and real-world deployment of large-scale AI models.<br><br>🌱 I’m currently learning<br>Advanced system design, Kubernetes, and optimizing machine learning pipelines for production.<br><br>💬 Ask me about<br>AI + software engineering, full-stack architecture, backend performance, and building scalable APIs.<br><br>⚡ Fun fact<br>I once built a chatbot that users thought was human for three straight days 😄
+<div align="center">
 
+# Vineet Singh
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singh.vineet.biz@gmail.com) 
+**Platform Engineer @ Samsung Research | Ex-LTIMindtree**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![ChipperCI](https://img.shields.io/badge/chipperci-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tourist03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tourist03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tourist03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Building systems that run on millions of devices. Debugging at the OS layer by day, building AI-powered tools by night.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tourist03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet-singh-a8441b190/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://tourist03.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:singh.vineet.biz@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode_1820-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/tourist03/)
+[![CodeChef](https://img.shields.io/badge/CodeChef_1892-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/tourist03)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+### What I Do
+
+- **Samsung Research Institute** — Debug and develop across the **Tizen Smart TV** runtime stack. C++ native modules, memory analysis, system-level tracing on constrained hardware. The code I touch runs on millions of TVs.
+
+- **Previously at LTIMindtree** — Built high-throughput backend services with **Java, Spring Boot, Spring Cloud**. Designed a Redis caching layer that cut latency by **45%** in production.
+
+- **Side projects** — I build full-stack AI tools. Currently shipping an ML-powered news platform with local inference, vector embeddings, and semantic clustering.
+
+---
+
+### Tech Stack
+
+**Systems & Low-Level**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Tizen](https://img.shields.io/badge/Tizen_OS-394FF0?style=flat&logo=tizen&logoColor=white)
+
+**Backend & APIs**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Data & ML**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[OpenWave — AI News Aggregator](https://github.com/tourist03/OpenWave)**
+
+Full-stack AI news platform with local ML inference. Crawls multiple sources, summarizes with BART, clusters duplicate stories using vector similarity (MiniLM embeddings), and serves through a React + FastAPI stack.
+
+`React` `FastAPI` `HuggingFace` `Vector Embeddings` `Python`
+
+</td>
+<td width="50%">
+
+**[100-Day SDE2 Roadmap](https://tourist03.github.io/Roadmap/)**
+
+Interactive interview prep dashboard covering DSA, System Design (HLD + LLD) across 100 days. Streak tracking, milestone celebrations, LeetCode integration, and progress persistence. Built for daily use.
+
+`React` `Vite` `GitHub Pages` `localStorage`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**AI/ML Research Platform** *(Coming Soon)*
+
+End-to-end machine learning platform — from data pipelines to model serving. Training, evaluation, and deployment of production ML models with experiment tracking and API inference endpoints.
+
+`Python` `PyTorch` `FastAPI` `Docker` `MLOps`
+
+</td>
+<td width="50%">
+
+**[iNotebook](https://github.com/tourist03/iNotebook)**
+
+Cloud-based notebook web application with user authentication, CRUD operations, and a clean React frontend backed by Node.js and MongoDB.
+
+`React` `Node.js` `MongoDB` `Express`
+
+</td>
+</tr>
+</table>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tourist03&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tourist03&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=tourist03&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tourist03&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=tourist03&style=flat&color=6C5CE7" />
+
+</div>
