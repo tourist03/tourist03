@@ -73,21 +73,21 @@ competitive_programming: { leetcode: 1820, codechef: 1892 }
 <div align="center">
 
 <a href="https://github.com/tourist03/OpenWave">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tourist03&repo=OpenWave&theme=tokyonight&hide_border=true&show_owner=true" width="47%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tourist03&repo=OpenWave&theme=tokyonight&hide_border=true&show_owner=true" width="47%" />
 </a>
 &nbsp;
 <a href="https://github.com/tourist03/Scribe-Script">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tourist03&repo=Scribe-Script&theme=tokyonight&hide_border=true&show_owner=true" width="47%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tourist03&repo=Scribe-Script&theme=tokyonight&hide_border=true&show_owner=true" width="47%" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/tourist03/Roadmap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tourist03&repo=Roadmap&theme=tokyonight&hide_border=true&show_owner=true" width="47%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tourist03&repo=Roadmap&theme=tokyonight&hide_border=true&show_owner=true" width="47%" />
 </a>
 &nbsp;
 <a href="https://github.com/tourist03/HandWritten-Digit-Recognition">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tourist03&repo=HandWritten-Digit-Recognition&theme=tokyonight&hide_border=true&show_owner=true" width="47%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tourist03&repo=HandWritten-Digit-Recognition&theme=tokyonight&hide_border=true&show_owner=true" width="47%" />
 </a>
 
 </div>
@@ -208,12 +208,12 @@ competitive_programming: { leetcode: 1820, codechef: 1892 }
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tourist03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tourist03&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tourist03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tourist03&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
-<img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=tourist03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=tourist03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -222,7 +222,7 @@ competitive_programming: { leetcode: 1820, codechef: 1892 }
 <!-- TROPHIES -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tourist03&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+<img src="https://github-trophies.vercel.app/?username=tourist03&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 
 </div>
 
